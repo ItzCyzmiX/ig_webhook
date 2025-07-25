@@ -1,0 +1,15 @@
+{
+  "name": "ig_webhook",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "CyzmiX",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0",
+    "express-x-hub": "^1.0.4"
+  }
+}
